@@ -1,0 +1,12 @@
+.cards{
+    margin: 10px;
+   
+    border: 2px solid rgb(148, 145, 141);
+    
+}
+.but-on{
+    background-color: rgb(54, 54, 53);
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    border-radius: 10px;
+}

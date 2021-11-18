@@ -1,0 +1,23 @@
+.log-submit{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    border: 1px solid yellow;
+}
+.log{
+    color: white;
+}
+.pass{
+    color: white;
+}
+
+
+.common-btn{
+    background-color: yellow;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
